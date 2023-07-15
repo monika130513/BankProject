@@ -1,0 +1,21 @@
+Link : https://www.mysql.com/
+Download >> MySQL Community (GPL) Downloads »
+MySQL Installer for Windows>> Windows (x86, 32-bit), MSI Installer (one big size) 
+after download open to install
+custom >>mysql >> mysql>> 8.0V(Move this to right side window)
+       >> application >> workbench>> 8. latest version
+       >> Shell 
+pwd = root123456
+shell(look like cmd )
+step 1: change js to sql
+\sql
+step 2 : show database
+step 3: for connect 
+
+https://www.youtube.com/watch?v=qBBXBZXKi0w&ab_channel=AmitThinks
+-----------------------------------------------------------------
+>> downloaded netbeans13
+>> down loaded mysql
+>> downloaded jdk17
+
+// my sql(u- root , p - monika@123456)
